@@ -1088,7 +1088,7 @@ int main(int argc, char* argv[])
 
 
 
-#if 1 // debug write
+#if 0 // debug write
 		std::cout << std::endl;
 		std::cout << "iRun = " << iRun << std::endl;
 		std::cout << "*************** Chromosome elements ***************" << std::endl;
